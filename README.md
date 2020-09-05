@@ -1,6 +1,6 @@
 # About me
 
-I like to build application, but I'm not good at it yet.
+I build application🤯. 
 
 <!--
 **ttdyce/ttdyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
