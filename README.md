@@ -1,6 +1,8 @@
-# About me
+# About ttdyce
 
-I build apps🤯. 
+I build apps🤯
+
+Reach me at hey@ttdyce.com, or sometimes on [ttdyce.com](ttdyce.com)
 
 <!--
 **ttdyce/ttdyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
